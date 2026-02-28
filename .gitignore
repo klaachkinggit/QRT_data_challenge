@@ -1,0 +1,8 @@
+# Ignore data and submission directories
+data/
+submission/
+
+# Optional: ignore R data output and notebook checkpoints
+*.RData
+.ipynb_checkpoints/
+.DS_Store
